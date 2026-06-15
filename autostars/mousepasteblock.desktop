@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=xmousepasteblock
+Exec=/usr/bin/xmousepasteblock
+Terminal=false
+Type=Application
+X-GNOME-Autostart-enabled=true
+Hidden=false

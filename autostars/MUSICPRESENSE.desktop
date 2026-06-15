@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=music presence
+Exec=musicpresence
+Terminal=false
+Type=Application
+X-GNOME-Autostart-enabled=true
+Hidden=false
