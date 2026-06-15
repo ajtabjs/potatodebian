@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=CLIPBOARD
+Exec=copyq
+Terminal=false
+Type=Application
+X-GNOME-Autostart-enabled=true
+Hidden=false
