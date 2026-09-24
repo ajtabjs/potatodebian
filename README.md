@@ -14,3 +14,9 @@ add at the bottom
 
 replace the whole file with sources.list
 
+sync your time if needed so apt can shut up
+
+`sudo timedatectl set-ntp-true`
+
+if that fails install a timedate service 
+`sudo apt install systemd-timesyncd`
